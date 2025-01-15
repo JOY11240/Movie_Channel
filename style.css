@@ -229,3 +229,15 @@ form .btn{
         font-size: 35px;
     }
 }
+
+@media (max-width: 500px) {
+    .logo{
+        font-size: 15px;
+    }
+}
+
+@media (max-width: 400px) {
+    .navbar{
+        padding: 30px 50px;
+    }
+}
